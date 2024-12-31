@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @476857578
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-476857578/476857578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello! I'm a PhD candidate at the Institute of Process Engineering, Chinese Academy of Sciences, with an expected graduation date in 2026.
+- 👀 My research focuses on the fascinating fields of multiphase flow, computer vision, and deep learning.
+- 🌱 Multiphase Flow: Exploring the dynamics of multiple phases in fluid systems and their applications in various engineering fields.
+- 🌱 Computer Vision: Developing algorithms and techniques to enable machines to interpret and understand visual information from the world.
+- 🌱 Deep Learning: Leveraging neural networks to solve complex problems in image processing, pattern recognition, and beyond.
+- 💞️ Feel free to explore my repositories, check out my projects, or connect with me! I’m always open to discussions and collaborations.
+- 📫 Thank you for visiting my profile!
